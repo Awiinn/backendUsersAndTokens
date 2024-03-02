@@ -1,7 +1,6 @@
 {
   "scripts": {
     "dev": "nodemon index.js",
-    "test": "jest",
     "seed": "node src/api/seed.js"
   },
   "dependencies": {
